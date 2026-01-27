@@ -1,6 +1,6 @@
 <h1>ITD banner picker</h1>
 <p>Данный скрипт выполняет одну единственную задачу — даёт вам возможность использовать в качестве баннера своей странички картинки формата .png, .jpg, .gif, что не было реализовано разработчиками данной забавной социальной сети</p>
-<img src="https://github.com/travkinastesha/itd-banner-picker/blob/main/preview.png?raw=true">
+<img src="https://github.com/travkinastesha/itd-banner-picker/blob/main/ITD%20banner%20picker.gif?raw=true">
 <h3>Как использовать?</h3>
 <p>Находясь на своей страничке, вставь в консоль это:</p>
 
