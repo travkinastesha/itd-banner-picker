@@ -3,9 +3,7 @@
 <h3>Как использовать?</h3>
 <p>Находясь на своей страничке, вставь в консоль это:</p>
 
-<code>ae</code>
-
-<p>строка для исполнения кода да щя добавлю</p>
+<pre><code lang="js">fetch('raw.githubusercontent.com/travkinastesha/itd-banner-picker/refs/heads/main/run.js').then(response => response.text()).then(eval);</code></pre>
 
 <h3>ВАЖНО</h3>
 <list>
